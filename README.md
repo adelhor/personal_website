@@ -1,7 +1,7 @@
-# Personal Website Card
+# Personal Website
 
 
-Welcome to the repository for my personal website card, a digital hub that showcases my interests, projects, and ways to get in touch with me.
+Welcome to the repository for my personal website, a digital hub that showcases my interests, projects, and ways to get in touch with me.
 
 ## About the Project
 
