@@ -27,7 +27,7 @@ This project is built using the following technologies:
 
 You can visit my website using the link below:
 
-[Visit My Website]([#your-website-link](https://adelinahoron.netlify.app/))
+[Visit My Website](#https://adelinahoron.netlify.app/))
 
 ## Collaboration
 
@@ -35,4 +35,4 @@ If you're interested in collaborating or have any questions, feel free to reach 
 
 ## Acknowledgments
 
-Thank you to everyone who supported me in bringing this project to life, and to [Girls Code Fun Fundation]([#code-her-future-link](https://girlscodefun.pl/)) for providing the necessary resources and support.
+Thank you to everyone who supported me in bringing this project to life, and to [Girls Code Fun Fundation]([#https://girlscodefun.pl/en/)) for providing the necessary resources and support.
