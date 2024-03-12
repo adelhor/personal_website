@@ -1,4 +1,4 @@
-# Personal Website Card ![1378900-200](https://github.com/adelhor/personal_website/assets/115109011/a2d0b045-38ed-4ff9-95e3-79d8498996dc)
+# Personal Website Card 🪪
 
 
 Welcome to the repository for my personal website card, a digital hub that showcases my interests, projects, and ways to get in touch with me.
