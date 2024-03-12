@@ -1,4 +1,4 @@
-# Personal Website Card 🪪
+# Personal Website Card
 
 
 Welcome to the repository for my personal website card, a digital hub that showcases my interests, projects, and ways to get in touch with me.
@@ -18,11 +18,11 @@ This project is built using the following technologies:
 
 ### Features
 
-- **About Me**: A section that provides a snapshot of my education and professional background.
-- **Links**: Direct links to my social media profiles and my resume.
-- **Interests**: An overview of my passions and hobbies.
-- **Photo Gallery**: A collection of photos from various places I've visited.
-- **Contact**: A contact form that allows sending messages directly from the site.
+- **About Me** 🙋🏻‍♀️: A section that provides a snapshot of my education and professional background.
+- **Links** 🔗: Direct links to my social media profiles and my resume.
+- **Interests** 🎵: An overview of my passions and hobbies.
+- **Photo Gallery** 📸 : A collection of photos from various places I've visited.
+- **Contact** 📧: A contact form that allows sending messages directly from the site.
 
 ## Usage
 
