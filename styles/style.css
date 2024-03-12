@@ -16,7 +16,7 @@ body{
     font-family: "Roboto", sans-serif;
     font-style: normal;
     font-size: 18px;
-    color: #260707;
+    color: rgb(28,16,27);
     line-height: 1.5;                
 }
 
@@ -90,7 +90,7 @@ nav{
 }
 .menu a{
     padding: 0px 25px;
-    color: RGB(236, 240, 241);
+    color: rgb(236, 240, 241);
     text-decoration: none;
     font-size: 25px;
 }
@@ -154,6 +154,7 @@ nav{
 .hero_content{
     text-align: center;
 }
+
 .hero_title {
     font-family: "Lora", serif;
     font-weight: 700;
@@ -389,7 +390,7 @@ section{
 
 /*ssocial media section*/
 .cta_section {
-    padding: 80px 140px;
+    padding: 80px 170px;
     position: relative;
     overflow: hidden;
     background-color: rgb(28,16,27);
@@ -406,9 +407,9 @@ section{
     z-index:1;
     border-radius: 50%;
 }
-.github, .linkedin {
+.github, .linkedin, .cv {
     flex: 1; /* Give flex containers equal weight */
-    margin: 0 10px;
+    margin: 0 40px;
     text-align: center;
 }
 
