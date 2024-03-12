@@ -32,7 +32,7 @@ You can visit my website using the link below:
 
 ## Collaboration
 
-If you're interested in collaborating or have any questions, feel free to reach out through the contact form available on the site.
+If you are interested in collaborating or have any questions, feel free to reach out through the contact form available on the site.
 
 ## Acknowledgments
 
