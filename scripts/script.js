@@ -15,7 +15,7 @@ function mobileMenu(){
 } 
 
 (function(){
-    emailjs.init(""); //API_public_key
+    emailjs.init("IVQPoaBAi20G6R3Ab"); //API_public_key
   })();
 
 // JavaScript to handle the form submission event
@@ -28,7 +28,7 @@ function sendEmail() {
     }
     var message = document.getElementById('message').value;
 
-    emailjs.send("", "", { //service_ID and tamplete_ID
+    emailjs.send("service_adelhor", "template_l2pndhn", { //service_ID and tamplete_ID
         from_name: user_name,
         user_email: user_email,
         message: message
